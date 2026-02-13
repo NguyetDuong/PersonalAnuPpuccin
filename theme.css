@@ -4863,7 +4863,7 @@ Support me: https://buymeacoffee.com/AnubisNekhet
   background-color: rgb(var(--ctp-mantle));
 }
 
-/*---------------CALLOUT COLORS----------------*/
+/*---------------CALLOUT COLORS----------------
 .anp-callout-color-toggle .callout[data-callout=note] {
   --callout-color: var(--ctp-blue);
 }
@@ -4893,7 +4893,7 @@ Support me: https://buymeacoffee.com/AnubisNekhet
 }
 .anp-callout-color-toggle.anuppuccin-accent-toggle .callout[data-callout=note] {
   --callout-color: var(--ctp-accent);
-}
+}*/
 
 /*---------------CUSTOM CALLOUTS---------------*/
 .callout[data-callout=formula] {
